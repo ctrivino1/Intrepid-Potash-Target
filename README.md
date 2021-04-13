@@ -1,4 +1,4 @@
-# Intrepid-Potash-Target
+# Intrepid-Potash
 
-Conducting multiple linear regression model tests to find significant correlations for Intrepid Potash company data,
+I conducted multiple linear regression model tests to find significant correlations for Intrepid Potash's company data,
 which is helping management make key decisions on improving their production line.
