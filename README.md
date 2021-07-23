@@ -8,3 +8,5 @@ I was involved in a team where we discovered some insights and some problems wit
 
 
 The md/rmd/html files contain the results and Insights that I found and presented to our contact with the company. 
+
+note: you may have to download the files to view them, I'm currently working on making the graph's from the insights show up.
