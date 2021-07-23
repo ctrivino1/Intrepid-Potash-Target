@@ -7,4 +7,4 @@ Intrepid Potash is a company that Intrepid delivers high quality potassium, magn
 I was involved in a team where we discovered some insights and some problems with their data. My role in my team was to create a linear regression model that could help the company find insights. 
 
 
-The RMD file is portraying the data wrangling and linear regression skills that I used to help intredpid potash. 
+The md/rmd/html files contain the results and Insights that I found and presented to our contact with the company. 
