@@ -1,6 +1,10 @@
 # Intrepid-Potash
 
-I conducted multiple linear regression model tests to find significant correlations for Intrepid Potash's company data,
-which is helping management make key decisions on improving their production line. 
+The project is no longer ongoing.
 
-The project is ongoing, and therefore the RMD file is not finished. The RMD file is portraying the data wrangling skills I am using to help solve questions for the Intrepid Potash.
+Intrepid Potash is a company that Intrepid delivers high quality potassium, magnesium, sulfur and salt essential for success in agriculture, animal feed and industry. They were interested in finding correlations in their production line to see if they improve their production line with any insights. They reached out to Brigham Young University-Idaho's data science society to help them get started.
+
+I was involved in a team where we discovered some insights and some problems with their data. My role in my team was to create a linear regression model that could help the company find insights. 
+
+
+The RMD file is portraying the data wrangling and linear regression skills that I used to help intredpid potash. 
