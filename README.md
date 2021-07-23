@@ -7,6 +7,6 @@ Intrepid Potash is a company that Intrepid delivers high quality potassium, magn
 I was involved in a team where we discovered some insights and some problems with their data. My role in my team was to create a linear regression model that could help the company find insights. 
 
 
-The md/rmd/html files contain the results and Insights that I found and presented to our contact with the company. 
+The following  link contains the information and insights I was able to present to the company. 
 
-note: you may have to download the files to view them, I'm currently working on making the graph's from the insights show up.
+https://shiny.byui.edu/content/aea707bb-9162-4593-aada-1956e45a8f3f 
